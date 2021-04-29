@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1, h2 {
+  color: #66bfbf;
+}
+h1 {
+  margin: 0 auto;
+  font-family: cursive;
+  font-size: 60px;
+}
+h2 {
+  font-size: 40px;
+}
+h3, a {
+  color: #11999e;
+}
+.skills {
+  padding-left:  200px;
+  padding-right: 200px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+/*
+.side{
+  display:flex;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+*/
+.resize {
+  width: 100px;
+  height: 100px;
+}
+.text-div{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.top-cloud {
+  display: inline-block;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  display: inline-block;
+  position: absolute;
+  left: 100px;
+}
+
+.top-container {
+  background-color:#e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+.bottom-container {
+
+}
+.pro {
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 2;
+}
